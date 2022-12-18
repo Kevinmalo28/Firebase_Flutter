@@ -1,4 +1,4 @@
-# step_02
+# fire_flutter
 
 A new Flutter project.
 
